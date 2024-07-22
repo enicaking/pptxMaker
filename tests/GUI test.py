@@ -1,3 +1,6 @@
+# Credits to this YouTube video for showing me a basic GUI
+# https://www.youtube.com/watch?v=eoy9_S0sfP4 
+
 import tkinter as tk
 from tkinter import ttk
 
